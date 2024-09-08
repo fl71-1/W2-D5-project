@@ -432,7 +432,6 @@ height: 50vh;
     display: none;
 }
 
-/* تنسيق الزر */
 .login-btn {
     background-color: #4d3796;
     color: white;
@@ -629,7 +628,7 @@ height: 50vh;
 
     }
     .lable button{
-        width: 80vw;
+        width: 82vw;
         height: 5vh;
     }
     .input-filed{
@@ -659,7 +658,9 @@ top: 15vh;
 left: 15vh;
 }
 .p11{
-    position: absolute;
+    position: relative;
+    left: 20vh;
+    top: 5vh;
 }
 
 }
